@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Alcool ou Gasolina</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="alcool">Álcool</string>
+    <string name="resultado">Resultado</string>
+    <string name="keep_alcohol">Manter álcool</string>
+    <string name="alcoolougasolina_1_0">AlcoolouGasolina 1.0</string>
+    <string name="app_by">Feito por: Eduardo Peregrino</string>
+    <string name="year_class">Turma Dev Apps 2018.2</string>
+    <string name="creditos">Créditos:</string>
+    <string name="rate_the_app">Avalie o app</string>
+    <string name="rate_app_msg">Obrigado por avaliar o app</string>
+    <string name="please_rate">Por favor, avalie o app</string>
+</resources>
